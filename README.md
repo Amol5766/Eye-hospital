@@ -9,16 +9,23 @@
 </p>
 
 <h2>🌟 Features</h2>
-<p align="center" style="font-size: 1.1em;">
-  ▶ 🗓 Online Appointment Booking: Effortlessly book appointments with your preferred doctor.<br>
-  ▶ 👨‍⚕️ Detailed Sections: Explore extensive content on eye treatments, diseases, and specialized services offered.<br>
-  ▶ 📱 Responsive Design: Optimized for both mobile and desktop to offer a seamless user experience.<br>
+<p align="left" style="font-size: 1.1em;">
+  
+  ▶ 🗓 Online Appointment Booking: Effortlessly book appointments with your preferred doctor.</br>
+  
+  ▶ 👨‍⚕️ Detailed Sections: Explore extensive content on eye treatments, diseases, and specialized services offered.</br>
+  
+  ▶ 📱 Responsive Design: Optimized for both mobile and desktop to offer a seamless user experience.</br>
+  
   ▶ 🎡 Interactive Carousels: Dive into visually rich carousels showcasing our specialists and treatments.
+  
 </p>
 
 <h2>⚙️ Installation Instructions</h2>
 <p style="font-size: 1.1em;">
+  
   To run the Nanjappa Eye Hospital project locally, follow these steps:
+  
 </p>
 <pre style="background: #f9f9f9; border-radius: 5px; padding: 10px;">
 # Clone the repository
@@ -51,10 +58,15 @@ npm run dev
 
 <h2>🛠 Technologies</h2>
 <p align="center" style="font-size: 1.1em;">
+  
   <h3>This project was built with the following technologies:</h3>
-  ▶ React: A powerful JavaScript library for building user interfaces.<br>
-  ▶ Vite: A next-gen frontend tool for faster development.<br>
+  
+  ▶ React: A powerful JavaScript library for building user interfaces.</br>
+  
+  ▶ Vite: A next-gen frontend tool for faster development.</br>
+  
   ▶ Vanilla CSS: Custom styling for a sleek, minimalist design.
+  
 </p>
 
 <h2>🖋 License</h2>
