@@ -3,6 +3,29 @@
   Welcome to the official website of <strong>Nanjappa Eye Hospital</strong>! A comprehensive platform for patients and visitors to explore eye treatments, diseases, services, and doctors. Built with a focus on <strong>simplicity</strong>, <strong>accessibility</strong>, and <strong>responsiveness</strong>, ensuring a seamless experience across all devices.
 </p>
 
+<br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/Amol5766/Eye-hospital?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/Amol5766/Eye-hospital?color=red&logo=github&style=for-the-badge)
+
+</center>
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/Amol5766/nanjappa-eye-hospital/issues/new">💡 Submit an Issue</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/Amol5766/nanjappa-eye-hospital/pulls">🚀 Request a Feature</a>
+</h3>
+
+## TL;DR
+
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Amol5766](https://github.com/Amol5766/Eye-hospital). Thanks!
+
 <h2>🏥 About</h2>
 <p style="font-size: 1.1em;">
   The <strong>Nanjappa Eye Hospital</strong> website is an <strong>informational platform</strong> designed to help patients and visitors learn about various <strong>eye treatments</strong>, <strong>diseases</strong>, and <strong>specialized services</strong>. Our goal is to make it easy for you to <strong>book appointments</strong> and find the best care for your eyes.
@@ -85,10 +108,6 @@ npm run dev
   We welcome contributions to enhance the Nanjappa Eye Hospital project! If you’d like to report a bug, suggest improvements, or contribute code, we’d love to hear from you.
 </p>
 
-<div align="center" style="background-color: #FFC0CB; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto;">
-  <a href="https://github.com/Amol5766/nanjappa-eye-hospital/issues/new" style="background-color: #4CAF50; color: white; padding: 10px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 10px; font-size: 1.1em; margin-right: 15px;">💡 Submit an Issue</a>
-  <a href="https://github.com/Amol5766/nanjappa-eye-hospital/pulls" style="background-color: #008CBA; color: white; padding: 10px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 10px; font-size: 1.1em;">🚀 Request a Feature</a>
-</div>
 
 <p align="center" style="font-size: 1.2em;">Made with ❤️ by <strong>Amol</strong> at <strong>Nanjappa Eye Hospital</strong>.</p>
 
