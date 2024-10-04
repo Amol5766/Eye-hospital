@@ -123,4 +123,4 @@ npm run dev
 <p align="center" style="font-size: 1.2em;">Made with ❤️ by <strong>Amol</strong> at <strong>Nanjappa Eye Hospital</strong>.</p>
 
 <h2>📧 Questions?</h2>
-<p align="center" style="font-size: 1.1em;">Feel free to reach out if you have any questions or need support! We're here to help ❤️.</p>
+<p align="center" style="font-size: 1.1em;">Feel free to reach out if you have any questions or need support! i'm here to help ❤️.</p>
