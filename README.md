@@ -46,11 +46,16 @@ npm run dev
 
 <h2>🚀 Usage</h2>
 <p style="font-size: 1.1em;">
+  
   The Nanjappa Eye Hospital website offers an intuitive interface, allowing users to:
+  
 </p>
-<p align="center" style="font-size: 1.1em;">
-  📅 Make an Appointment: Easily book an appointment online.<br>
+<p align="left" style="font-size: 1.1em;">
+  
+  📅 Make an Appointment: Easily book an appointment online.</br>
+  
   👁 Check Services: Browse detailed descriptions of available services and treatments.
+  
 </p>
 <p style="font-size: 1.1em;">
   Navigate smoothly through various sections and enjoy interactive, user-friendly features.
@@ -84,7 +89,7 @@ npm run dev
   <a href="https://github.com/Amol5766/nanjappa-eye-hospital/pulls" style="background-color: #008CBA; color: white; padding: 10px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 10px; font-size: 1.1em;">🚀 Request a Feature</a>
 </div>
 
-<p align="center" style="font-size: 1.2em;">Made with ❤️ by <strong>Amol</strong> and the team at <strong>Nanjappa Eye Hospital</strong>.</p>
+<p align="center" style="font-size: 1.2em;">Made with ❤️ by <strong>Amol</strong> at <strong>Nanjappa Eye Hospital</strong>.</p>
 
 <h2>📧 Questions?</h2>
 <p align="center" style="font-size: 1.1em;">Feel free to reach out if you have any questions or need support! We're here to help ❤️.</p>
