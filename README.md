@@ -42,8 +42,11 @@ Navigate smoothly through various sections and enjoy interactive, user-friendly 
 
 <h2>🛠 Technologies</h2> <p align="center" style="font-size: 1.1em;"> <h3>This project was built with the following technologies:</h3>
 ▶ React: A powerful JavaScript library for building user interfaces.
+  
 ▶ Vite: A next-gen frontend tool for faster development.
+
 ▶ Vanilla CSS: Custom styling for a sleek, minimalist design.
+
 </p>
 <h2>🖋 License</h2> <p style="font-size: 1.1em;"> This project is licensed under the **MIT License**. Feel free to use and contribute! </p>
 <h2>🙌 Contribute</h2>
