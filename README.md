@@ -1,3 +1,13 @@
+<h2 align="center">
+Nanjappa Eye Hospital 👁️💻</h1>
+<p align="center" style="font-size: 1.2em;"><br/>
+  <a href="https://eye-hospital-psi.vercel.app/" target="_blank">Amol.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
+
+
 <h1 align="center" style="font-size: 3em;">Nanjappa Eye Hospital 👁️💻</h1>
 <p align="center" style="font-size: 1.2em;">
   Welcome to the official website of <strong>Nanjappa Eye Hospital</strong>! A comprehensive platform for patients and visitors to explore eye treatments, diseases, services, and doctors. Built with a focus on <strong>simplicity</strong>, <strong>accessibility</strong>, and <strong>responsiveness</strong>, ensuring a seamless experience across all devices.
