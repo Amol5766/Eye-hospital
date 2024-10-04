@@ -61,18 +61,18 @@ npm run dev
   Navigate smoothly through various sections and enjoy interactive, user-friendly features.
 </p>
 
-<h2>🛠 Technologies</h2>
-<p align="center" style="font-size: 1.1em;">
-  
-  <h3>This project was built with the following technologies:</h3>
-  
-  ▶ React: A powerful JavaScript library for building user interfaces.</br>
-  
-  ▶ Vite: A next-gen frontend tool for faster development.</br>
-  
-  ▶ Vanilla CSS: Custom styling for a sleek, minimalist design.
-  
-</p>
+## 🛠️ Technologies and Tools I used:
+<p>
+
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 
 <h2>🖋 License</h2>
 <p style="font-size: 1.1em;">
