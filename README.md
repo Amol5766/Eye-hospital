@@ -2,13 +2,13 @@
 <h2>🏥 About</h2> <p style="font-size: 1.1em;"> The <strong>Nanjappa Eye Hospital</strong> website is an <strong>informational platform</strong> designed to help patients and visitors learn about various <strong>eye treatments</strong>, <strong>diseases</strong>, and <strong>specialized services</strong>. Our goal is to make it easy for you to <strong>book appointments</strong> and find the best care for your eyes. </p>
 <h2>🌟 Features</h2> <p align="center" style="font-size: 1.1em;">  
 
-<strong> 🗓 Online Appointment Booking: </strong>   <p> Effortlessly book appointments with your preferred doctor. </p>
+▶ 🗓 Online Appointment Booking: Effortlessly book appointments with your preferred doctor. 
 
-👨‍⚕️ Detailed Sections: Explore extensive content on eye treatments, diseases, and specialized services offered.
+▶ 👨‍⚕️ Detailed Sections: Explore extensive content on eye treatments, diseases, and specialized services offered.
 
-📱 Responsive Design: Optimized for both mobile and desktop to offer a seamless user experience.
+▶ 📱 Responsive Design: Optimized for both mobile and desktop to offer a seamless user experience.
 
-🎡 Interactive Carousels: Dive into visually rich carousels showcasing our specialists and treatments.
+▶ 🎡 Interactive Carousels: Dive into visually rich carousels showcasing our specialists and treatments.
 
 </p>
 <h2>⚙️ Installation Instructions</h2>
@@ -41,9 +41,9 @@ The Nanjappa Eye Hospital website offers an intuitive interface, allowing users 
 Navigate smoothly through various sections and enjoy interactive, user-friendly features.
 
 <h2>🛠 Technologies</h2> <p align="center" style="font-size: 1.1em;"> <h3>This project was built with the following technologies:</h3>
-React: A powerful JavaScript library for building user interfaces.
-Vite: A next-gen frontend tool for faster development.
-Vanilla CSS: Custom styling for a sleek, minimalist design.
+▶ React: A powerful JavaScript library for building user interfaces.
+▶ Vite: A next-gen frontend tool for faster development.
+▶ Vanilla CSS: Custom styling for a sleek, minimalist design.
 </p>
 <h2>🖋 License</h2> <p style="font-size: 1.1em;"> This project is licensed under the **MIT License**. Feel free to use and contribute! </p>
 <h2>🙌 Contribute</h2>
