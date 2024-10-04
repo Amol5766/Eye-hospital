@@ -41,6 +41,7 @@ The Nanjappa Eye Hospital website offers an intuitive interface, allowing users 
 Navigate smoothly through various sections and enjoy interactive, user-friendly features.
 
 <h2>🛠 Technologies</h2> <p align="center" style="font-size: 1.1em;"> <h3>This project was built with the following technologies:</h3>
+  
 ▶ React: A powerful JavaScript library for building user interfaces.
   
 ▶ Vite: A next-gen frontend tool for faster development.
