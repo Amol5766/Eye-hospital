@@ -4,7 +4,7 @@ Nanjappa Eye Hospital 👁️💻</h1>
   <a href="https://eye-hospital-psi.vercel.app/" target="_blank">Amol.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/img/home.pngg" />
+  <img alt="Demo" src="./assets/img/home.png" />
 </div>
 
 
