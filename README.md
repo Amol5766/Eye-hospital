@@ -21,7 +21,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/Amol5766/Eye-hospital?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/Amol5766/Eye-hospital?color=red&logo=github&style=for-the-badge)
-
+                
 </center>
 
 <h3 align="center">
@@ -106,7 +106,9 @@ npm run dev
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="25px"/>
+<img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="25px"/>
 
+                        
 <h2>🖋 License</h2>
 <p style="font-size: 1.1em;">
   This project is licensed under the <strong>MIT License</strong>. Feel free to use and contribute!
