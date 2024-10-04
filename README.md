@@ -1,4 +1,4 @@
-Nanjappa Eye Hospital 👁️💻
+<h1>Nanjappa Eye Hospital 👁️💻<h1/>
 Welcome to the Nanjappa Eye Hospital official website! This platform serves as a comprehensive resource for anyone seeking information about our hospital’s services, eye treatments, and available doctors. We've built this website with a focus on simplicity, accessibility, and responsiveness, ensuring that all users can quickly access the information they need on any device.
 
 🏥 About
