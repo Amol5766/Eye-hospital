@@ -2,7 +2,7 @@
 <h2>🏥 About</h2> The <strong>Nanjappa Eye Hospital</strong> website is an <strong>informational platform</strong> designed to help patients and visitors learn about various<strong>eye treatments, diseases, and specialized services.</strong> Our goal is to make it easy for you to <strong>book appointments<strong> and find the best care for your eyes.
 <h2>🌟 Features</h2>
   <p align="center">
-<strong>🗓 Online Appointment Booking: </strong>strong> Effortlessly book appointments with your preferred doctor.
+<strong>🗓 Online Appointment Booking: </strong> Effortlessly book appointments with your preferred doctor.
   
 <strong>👨‍⚕️ Detailed Sections: </strong> Explore extensive content on eye treatments, diseases, and specialized services offered.
 
