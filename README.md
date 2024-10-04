@@ -1,7 +1,6 @@
 <h1 align="center" style="font-size: 3em;">Nanjappa Eye Hospital 👁️💻</h1> <p align="center" style="font-size: 1.2em;"> Welcome to the official website of <strong>Nanjappa Eye Hospital</strong>! A comprehensive platform for patients and visitors to explore eye treatments, diseases, services, and doctors. Built with a focus on <strong>simplicity</strong>, <strong>accessibility</strong>, and <strong>responsiveness</strong>, ensuring a seamless experience across all devices. </p>
 <h2>🏥 About</h2> <p style="font-size: 1.1em;"> The <strong>Nanjappa Eye Hospital</strong> website is an <strong>informational platform</strong> designed to help patients and visitors learn about various <strong>eye treatments</strong>, <strong>diseases</strong>, and <strong>specialized services</strong>. Our goal is to make it easy for you to <strong>book appointments</strong> and find the best care for your eyes. </p>
-<h2>🌟 Features</h2> <p align="center" style="font-size: 1.1em;">
-🗓 Online Appointment Booking: Effortlessly book appointments with your preferred doctor.
+<h2>🌟 Features</h2> <p align="center" style="font-size: 1.1em;">    🗓 Online Appointment Booking: Effortlessly book appointments with your preferred doctor.
 
 👨‍⚕️ Detailed Sections: Explore extensive content on eye treatments, diseases, and specialized services offered.
 
