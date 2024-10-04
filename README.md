@@ -1,10 +1,9 @@
 <h2 align="center">
-Nanjappa Eye Hospital 👁️💻</h1>
 <p align="center" style="font-size: 1.2em;"><br/>
   <a href="https://eye-hospital-psi.vercel.app/" target="_blank">Amol.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/img/home.png" />
+  <img alt="Real" src="./assets/img/home.png" />
 </div>
 
 
