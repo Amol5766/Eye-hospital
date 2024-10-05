@@ -3,7 +3,7 @@
   <a href="https://eye-hospital-psi.vercel.app/" target="_blank">Amol.tech</a>
 </h2>
 <div align="center">
-  <img alt="Real" src="public/eye hospital.png" />
+  <img alt="Demo" src="public/eye hospital.png" />
 </div>
 
 
