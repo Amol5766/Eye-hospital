@@ -122,5 +122,9 @@ npm run dev
 
 <p align="center" style="font-size: 1.2em;">Made with ❤️ by <strong>Amol</strong> at <strong>Nanjappa Eye Hospital</strong>.</p>
 
+## 🤝 Support Me:
+
+<a href="https://buymeacoffee.com/amol.m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
 <h2>📧 Questions?</h2>
 <p align="center" style="font-size: 1.1em;">Feel free to reach out if you have any questions or need support! i'm here to help ❤️.</p>
