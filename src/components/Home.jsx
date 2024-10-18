@@ -115,7 +115,7 @@ const HomeAndAbout = () => {
       03. <span className="text-purple-700">Personalized Treatment</span> <span>for everyone</span>
     </p>
     <hr className="border-white my-1 relative flex flex-col lg:flex-row z-10" />
-    <a href="/about" className=" relative inline-block mt-6 bg-white text-black py-4 px-6 rounded-full hover:bg-gray-200 transition-color ">
+    <a href="/aboutus" className=" relative inline-block mt-6 bg-white text-black py-4 px-6 rounded-full hover:bg-gray-200 transition-color ">
         Know More <FontAwesomeIcon icon={faArrowUpRightFromSquare} className="ml-2 text-black" />
     </a> 
   </div>
