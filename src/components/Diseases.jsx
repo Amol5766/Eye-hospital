@@ -17,19 +17,19 @@ import { FaArrowRight } from 'react-icons/fa';
 
 const EyeDiseases = () => {
   const diseases = [
-    { id: 1, title: "Cataract", description: "Cataracts occur when the eye's natural lens becomes cloudy, causing vision to blur like looking through a foggy or dusty car windshield.", image: cataractsImage, link: "/Diseases" },
-    { id: 2, title: "Glaucoma", description: "Glaucoma is a group of eye conditions that affect the optic nerve after elevated eye pressure which may cause blindness.", image: glaucomaImage, link: "/diseases" },
-    { id: 3, title: "Diabetic Retinopathy", description: "Diabetic Retinopathy happens when high blood sugar levels damage the retinal blood vessels.", image: macularDegenerationImage, link: "/diseases" },
-    { id: 4, title: "Squint", description: "Squint is a disorder in which the eyes don't look in exactly the same direction at the same time.", image: diabeticRetinopathyImage, link: "/diseases" },
-    { id: 5, title: "Retinal Detachment", description: "Retinal Detachment occurs when the retina separates from its supporting tissue, leading to severe vision loss and blindness.", image: dryEyeImage, link: "/diseases" },
-    { id: 6, title: "Retinopathy Prematurity", description: "Retinopathy Prematurity (ROP) is an eye condition occurring in premature infants, where abnormal blood vessels grow in the retina, potentially resulting in blindness.", image: amblyopiaImage, link: "/diseases" },
-    { id: 7, title: "Macular Hole", description: "The macula is the centre of your retina, the thin layer at the back of your eye. A macular hole is when a circular opening forms in this macula.", image: conjunctivitisImage, link: "/diseases },
-    { id: 8, title: "Traumatic Cataract", description: "Traumatic Cataract is the clouding of the lens due to eye trauma, either blunt or penetrative.", image: keratoconusImage, link: "/diseases" },
-    { id: 9, title: "Posterior Subcapsular Cataract", description: "Posterior Subcapsular is a type of cataract that begins as a small spot near the back of the lens.", image: uveitisImage, link: "/diseases" },
-    { id: 10, title: "Congenital Glaucoma", description: "Congenital Glaucoma is a rare genetic eye condition that affects children at birth.", image: retinalDetachmentImage, link: "/diseases" },
-    { id: 11, title: "Rosette Cataract", description: "Rosette Cataract is a form of traumatic cataract caused by blunt force trauma or eye injury.", image: retinitisPigmentosaImage, link: "/diseases" },
-    { id: 12, title: "Uveitis", description: "Uveitis refers to eye inflammation that affects the middle layer of tissue in the eye wall.", image: floatersImage, link: "/diseases" },
-    { id: 13, title: "Orbital Trauma", description: "Ocular or orbital injuries might cause pain around the eye, bruising, swelling, bleeding from cuts, facial numbness, and vision changes.", image: blepharitisImage, link: "/diseases" },
+    { id: 1, title: "Cataract", description: "Cataracts occur when the eye's natural lens becomes cloudy, causing vision to blur like looking through a foggy or dusty car windshield.", image: cataractsImage, link: "/" },
+    { id: 2, title: "Glaucoma", description: "Glaucoma is a group of eye conditions that affect the optic nerve after elevated eye pressure which may cause blindness.", image: glaucomaImage, link: "/" },
+    { id: 3, title: "Diabetic Retinopathy", description: "Diabetic Retinopathy happens when high blood sugar levels damage the retinal blood vessels.", image: macularDegenerationImage, link: "/" },
+    { id: 4, title: "Squint", description: "Squint is a disorder in which the eyes don't look in exactly the same direction at the same time.", image: diabeticRetinopathyImage, link: "/" },
+    { id: 5, title: "Retinal Detachment", description: "Retinal Detachment occurs when the retina separates from its supporting tissue, leading to severe vision loss and blindness.", image: dryEyeImage, link: "/" },
+    { id: 6, title: "Retinopathy Prematurity", description: "Retinopathy Prematurity (ROP) is an eye condition occurring in premature infants, where abnormal blood vessels grow in the retina, potentially resulting in blindness.", image: amblyopiaImage, link: "/" },
+    { id: 7, title: "Macular Hole", description: "The macula is the centre of your retina, the thin layer at the back of your eye. A macular hole is when a circular opening forms in this macula.", image: conjunctivitisImage, link: "/" },
+    { id: 8, title: "Traumatic Cataract", description: "Traumatic Cataract is the clouding of the lens due to eye trauma, either blunt or penetrative.", image: keratoconusImage, link: "/" },
+    { id: 9, title: "Posterior Subcapsular Cataract", description: "Posterior Subcapsular is a type of cataract that begins as a small spot near the back of the lens.", image: uveitisImage, link: "/" },
+    { id: 10, title: "Congenital Glaucoma", description: "Congenital Glaucoma is a rare genetic eye condition that affects children at birth.", image: retinalDetachmentImage, link: "/" },
+    { id: 11, title: "Rosette Cataract", description: "Rosette Cataract is a form of traumatic cataract caused by blunt force trauma or eye injury.", image: retinitisPigmentosaImage, link: "/" },
+    { id: 12, title: "Uveitis", description: "Uveitis refers to eye inflammation that affects the middle layer of tissue in the eye wall.", image: floatersImage, link: "/" },
+    { id: 13, title: "Orbital Trauma", description: "Ocular or orbital injuries might cause pain around the eye, bruising, swelling, bleeding from cuts, facial numbness, and vision changes.", image: blepharitisImage, link: "/" },
   ];
 
   const [visible, setVisible] = useState(Array(diseases.length + 1).fill(false)); // One extra for the header section
