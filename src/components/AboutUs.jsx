@@ -89,7 +89,7 @@ const AboutUs = () => {
             <p className="flex-grow text-gray-600">
               Meet our experienced doctor dedicated to providing quality care.
             </p>
-            <Link to="/doctor" className="mt-4 inline-flex items-center justify-center px-1 py-2 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors">
+            <Link to="" className="mt-4 inline-flex items-center justify-center px-1 py-2 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors">
               Learn More <HiArrowRight className="ml-2" />
             </Link>
           </div>
