@@ -17,7 +17,7 @@ import { FaArrowRight } from 'react-icons/fa';
 
 const EyeDiseases = () => {
   const diseases = [
-    { id: 1, title: "Cataract", description: "Cataracts occur when the eye's natural lens becomes cloudy, causing vision to blur like looking through a foggy or dusty car windshield.", image: cataractsImage, link: "/diseases" },
+    { id: 1, title: "Cataract", description: "Cataracts occur when the eye's natural lens becomes cloudy, causing vision to blur like looking through a foggy or dusty car windshield.", image: cataractsImage, link: "/Diseases" },
     { id: 2, title: "Glaucoma", description: "Glaucoma is a group of eye conditions that affect the optic nerve after elevated eye pressure which may cause blindness.", image: glaucomaImage, link: "/diseases" },
     { id: 3, title: "Diabetic Retinopathy", description: "Diabetic Retinopathy happens when high blood sugar levels damage the retinal blood vessels.", image: macularDegenerationImage, link: "/diseases" },
     { id: 4, title: "Squint", description: "Squint is a disorder in which the eyes don't look in exactly the same direction at the same time.", image: diabeticRetinopathyImage, link: "/diseases" },
