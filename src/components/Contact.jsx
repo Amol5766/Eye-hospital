@@ -29,9 +29,10 @@ const Contact = () => {
             <p className="flex items-center justify-center text-gray-600">
               <FaPhoneAlt className="mr-2 text-blue-500" /> +08224254330
             </p>
-            <p className="flex items-center justify-center text-gray-600">
-              <FaEnvelope className="mr-2 text-blue-500" /> nanjapppaeyehospital.kollegal@gmail.com
-            </p>
+           <p className="flex flex-wrap items-center justify-center text-gray-600 break-words text-center">
+            <FaEnvelope className="mr-2 text-blue-500 text-lg" /> nanjapppaeyehospital.kollegal@gmail.com
+           </p>
+
             <p className="flex items-center justify-center text-gray-600">
               <FaClock className="mr-2 text-blue-500" /> Mon - Sat, 10 AM - 6 PM
             </p>
