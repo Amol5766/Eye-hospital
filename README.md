@@ -1,4 +1,4 @@
-align="center">
+<align="center">
 <p align="center" style="font-size: 1.2em;"><br/>
   <a href="https://eye-hospital-psi.vercel.app/" target="_blank">Amol.tech</a>
 </h2>
